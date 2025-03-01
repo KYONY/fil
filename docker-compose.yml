@@ -1,0 +1,13 @@
+services:
+  instagram-converter-bot:
+    container_name: instagram-converter-bot
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./logs:/app/logs
+      - ./tg_bot_session:/app/instagram_converter_session.session
+      - ./.env:/app/.env
+    environment:
+      - TZ=Europe/Kiev
+    restart: always

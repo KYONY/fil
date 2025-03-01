@@ -1,0 +1,26 @@
+2025-03-01 18:59:48,136 - __main__ - INFO - Bot starting with the following configuration:
+2025-03-01 18:59:48,136 - __main__ - INFO - API_ID: 25252575
+2025-03-01 18:59:48,136 - __main__ - INFO - Channel: -1002486286047
+2025-03-01 18:59:48,532 - __main__ - INFO - Bot connected as @family_instaloader_bot (ID: 7875555322)
+2025-03-01 19:00:10,581 - __main__ - INFO - Received /start from user 27792085
+2025-03-01 19:13:05,310 - __main__ - INFO - Received /start from user 27792085
+2025-03-01 19:13:10,532 - __main__ - INFO - Instagram link detected: https://www.instagram.com/p/DGqWRGDNsSI/?igsh=NnQ5NG9nZnduOG5o in chat -1002486286047
+2025-03-01 19:13:10,532 - __main__ - INFO - Generated ddinstagram URL: https://www.ddinstagram.com/p/DGqWRGDNsSI/
+2025-03-01 19:13:10,783 - __main__ - INFO - Replied with ddinstagram link in chat -1002486286047
+2025-03-01 19:16:54,023 - __main__ - INFO - Bot starting with the following configuration:
+2025-03-01 19:16:54,024 - __main__ - INFO - API_ID: 25252575
+2025-03-01 19:16:54,024 - __main__ - INFO - Channel: -1002486286047
+2025-03-01 19:17:04,024 - __main__ - INFO - Bot starting with the following configuration:
+2025-03-01 19:17:04,024 - __main__ - INFO - API_ID: 25252575
+2025-03-01 19:17:04,024 - __main__ - INFO - Channel: -1002486286047
+2025-03-01 19:17:14,025 - __main__ - INFO - Bot starting with the following configuration:
+2025-03-01 19:17:14,025 - __main__ - INFO - API_ID: 25252575
+2025-03-01 19:17:14,026 - __main__ - INFO - Channel: -1002486286047
+2025-03-01 19:20:43,228 - __main__ - INFO - Bot starting with the following configuration:
+2025-03-01 19:20:43,228 - __main__ - INFO - API_ID: 25252575
+2025-03-01 19:20:43,229 - __main__ - INFO - Channel: -1002486286047
+2025-03-01 19:20:45,061 - __main__ - INFO - Bot connected as @family_instaloader_bot (ID: 7875555322)
+2025-03-01 19:20:47,530 - __main__ - INFO - Received /start from user 27792085
+2025-03-01 19:21:01,638 - __main__ - INFO - Instagram link detected: https://www.instagram.com/p/DGqWRGDNsSI/?igsh=NnQ5NG9nZnduOG5o in chat -1002486286047
+2025-03-01 19:21:01,638 - __main__ - INFO - Generated ddinstagram URL: https://www.ddinstagram.com/p/DGqWRGDNsSI/
+2025-03-01 19:21:01,783 - __main__ - INFO - Replied with ddinstagram link in chat -1002486286047
